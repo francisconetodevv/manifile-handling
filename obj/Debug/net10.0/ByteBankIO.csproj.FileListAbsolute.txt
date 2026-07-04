@@ -1,0 +1,14 @@
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/bin/Debug/net10.0/ByteBankIO
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/bin/Debug/net10.0/ByteBankIO.deps.json
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/bin/Debug/net10.0/ByteBankIO.runtimeconfig.json
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/bin/Debug/net10.0/ByteBankIO.dll
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/bin/Debug/net10.0/ByteBankIO.pdb
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ByteBankIO.AssemblyInfoInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ByteBankIO.AssemblyInfo.cs
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ByteBankIO.csproj.CoreCompileInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ByteBankIO.dll
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/refint/ByteBankIO.dll
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ByteBankIO.pdb
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ByteBankIO.genruntimeconfig.cache
+/home/francisco/Francisco/Dev/C-Sharp/23.FilesCSharp/ByteBankIO/obj/Debug/net10.0/ref/ByteBankIO.dll
